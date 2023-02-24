@@ -1,0 +1,23 @@
+a.color:hover{
+    color: yellow;
+}
+
+a.fontsize:hover{
+    font-size: x-large;
+}
+
+a.back:hover{
+    background-color: coral;
+}
+
+a.family:hover{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+a.decoration{
+    text-decoration: none;
+}
+
+a.decoration:hover{
+    text-decoration: underline;
+}
